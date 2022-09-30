@@ -1,4 +1,4 @@
-package pgxetra
+package pgxtra
 
 import (
 	"context"
